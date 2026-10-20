@@ -1,0 +1,9 @@
+# Personal notes and local configuration are not community source material.
+.env
+.env.*
+*.pem
+*.key
+private/
+local-notes/
+.DS_Store
+Thumbs.db
